@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=1&line1=matlab%2Cmatlab%2Cffffff%3BDYNARE%2CDYNARE%2Cffffff%3B)
 <!--
 **jihakim1323/jihakim1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
